@@ -1161,15 +1161,15 @@
             "summary": "das BAMF ROM for Thunderbolt from Adrynalyne and ThatDudeButch" 
         },
         {
-	"developer": "Troll Dev Team",
-	"free": "true",
-	"id": "DanWilson",
-	"icon": "http://img651.imageshack.us/img651/9139/trollfaced.png",
-	"manifest": "http://dl.dropbox.com/u/7700554/TrollogenMOD.js",
-	"roms": {
-			"vision": "true",
-		},
-		"summary": "Teh ROMs by the TDT"
+	    "developer": "Troll Dev Team",
+	    "free": "true",
+	    "id": "DanWilson",
+	    "icon": "http://img651.imageshack.us/img651/9139/trollfaced.png",
+	    "manifest": "http://dl.dropbox.com/u/7700554/TrollogenMOD.js",
+	    "roms": {
+		"vision": "true"
+	   },
+	    "summary": "Teh ROMs by the TDT"
 	},		
     ],
     "minversion": "2000"
